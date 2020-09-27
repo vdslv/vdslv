@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I am Front-end Developer
+## I'm Front-end Developer
 
 ### Spotify Playing 🎧
 [![Spotify](https://vdslv.vercel.app/api/spotify)](https://open.spotify.com/playlist/1gHrTM4QYllVRFDRthXteR)
