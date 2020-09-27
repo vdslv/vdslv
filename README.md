@@ -4,7 +4,7 @@
 ## I am Front-end Developer
 
 ### Spotify Playing 🎧
-[<img src="https://github-spotify-navy.vercel.app/api/spotify" alt="vdslv Spotify Playing" width="350" />](https://open.spotify.com/playlist/1gHrTM4QYllVRFDRthXteR)
+[![Spotify](https://github-spotify-navy.vercel.app/api/spotify)](https://open.spotify.com/playlist/1gHrTM4QYllVRFDRthXteR)
 
 #### Languages and Tools:
 
