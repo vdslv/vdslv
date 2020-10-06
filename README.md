@@ -5,8 +5,6 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=vdslv&show_icons=true&theme=gotham" alt="vdslv" />
 
-<img align="right" alt="GIF" src="https://github.com/dmytromykhailiuk/dmytromykhailiuk/blob/master/code.gif?raw=true" width="500" height="320" />
-
 #### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" />
