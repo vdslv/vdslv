@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm Front-end Developer
+Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀 from Ukraine.
 
 **Languages and Tools:**  
 
