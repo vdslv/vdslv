@@ -3,9 +3,6 @@
 
 ## I'm Front-end Developer
 
-### Spotify Playing 🎧
-[![Spotify](https://vdslv.vercel.app/api/spotify)](https://open.spotify.com/playlist/1gHrTM4QYllVRFDRthXteR)
-
 #### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" />
