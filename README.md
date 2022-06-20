@@ -15,6 +15,7 @@ Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀 from Ukrai
 <code><img height="26" title="Angular" alt="Angular" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" /></code>
 <code><img height="26" title="Git" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img height="26" title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img height="26" title="NestJS" alt="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg" /></code>
 
 <br/>
 
