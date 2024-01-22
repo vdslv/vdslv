@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀 located in Denver, US.
+Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀  located in Denver 🇺🇸.
 
 **Languages and Tools:**  
 
