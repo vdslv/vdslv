@@ -18,7 +18,7 @@ Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀  located i
 <code><img height="26" title="NestJS" alt="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg" /></code>
 <code><img height="26" title="React" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></code>
 <code><img height="26" title="Redux" alt="Redux" src="https://www.bairesdev.com/wp-content/uploads/2020/07/redux.svg" /></code>
-<code><img height="26" title="Redux" alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" /></code>
+<code><img height="26" title="MongoDB" alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" /></code>
 
 
 <br/>
