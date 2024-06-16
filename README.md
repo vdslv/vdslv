@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/vladyslav-havryliak/">
+  <img align="left" alt="Vladyslav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀  located in Denver 🇺🇸🇺🇦.
