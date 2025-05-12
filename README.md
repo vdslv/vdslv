@@ -17,7 +17,6 @@ Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀  located i
 <code><img height="26" title="RxJS" alt="RxJS" src="https://user-images.githubusercontent.com/7826229/28226848-9903db36-68a5-11e7-9056-f37d8a77067e.png" /></code>
 <code><img height="26" title="Angular" alt="Angular" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" /></code>
 <code><img height="26" title="Capacitor" alt="Capacitor" src="https://www.svgrepo.com/show/373490/capacitor.svg" /></code>
-<code><img height="26" title="Cordova" alt="Cordova" src="https://e7.pngegg.com/pngimages/976/24/png-clipart-apache-cordova-android-logo-android-angle-white.png" /></code>
 <code><img height="26" title="Git" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img height="26" title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img height="26" title="NestJS" alt="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg" /></code>
