@@ -4,7 +4,7 @@
 </a>
 
 
-Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀  located in Denver 🇺🇸.
+Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Front-End Developer</b> 🚀 
 
 **Languages and Tools:**  
 
