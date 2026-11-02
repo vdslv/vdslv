@@ -6,9 +6,6 @@
 
 Hi, I'm <b>Vladyslav Havryliak</b>, a <b>Senior Software Engineer</b> 🚀 
 
-<br/>
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=vdslv&show_icons=true" alt="vdslv" />
 <!--
 **vdslv/vdslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
